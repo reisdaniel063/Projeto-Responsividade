@@ -93,6 +93,7 @@ header{
     height: auto;
     width: 100%;
     position: static;
+    margin-top: 25px;
     padding: 40px;
   }
   img{
@@ -119,5 +120,8 @@ header{
   button{
     display: block;
     margin: 0 auto;
+    width: 269px;
+    height: 62px;
+    border-radius: 50px;
   }
 }
